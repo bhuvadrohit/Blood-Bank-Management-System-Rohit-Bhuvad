@@ -1,0 +1,94 @@
+body {
+  font-family: Arial;
+  background: #8bb37e;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  color: #d32f2f;
+  margin-top: 20px;
+}
+
+.nav {
+  margin: 15px;
+}
+
+.nav a {
+  text-decoration: none;
+  background: #2d2e5e;
+  color: white;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  margin-bottom: 53px;
+}
+
+.nav a:hover {
+  background: #b71c1c;
+}
+
+input, select {
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+}
+
+button {
+  padding: 8px 15px;
+  background: #d32f2f;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #b71c1c;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 60%;
+  background: white;
+}
+
+th {
+  background: #d32f2f;
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.site-footer{
+    background-color: #d32f2f;
+    color: aliceblue;
+    text-align: center;
+    padding: 15px 10px;
+    width: 100%;
+    margin-top:15%;
+}
+
+.bloodbanklogo {
+    margin-top: 0;
+    margin-bottom: 70px;
+    background-color:#d32f2f ;
+    color: antiquewhite;
+    padding: 3%;
+}
+
+.welcome{
+    background-color: #d32f2f;
+    color: antiquewhite;
+    margin-bottom: 0%;
+    margin-top: 13%;
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 23px;
+    display:inline-block;
+    padding: 2%;
+}
